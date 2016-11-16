@@ -7,7 +7,7 @@
   "icons": {
     "128": "icon.png"
   },
-  "homepage_url": "http://sparanoid.com/work/omnibox-ncr/",
+  "homepage_url": "https://sparanoid.com/work/omnibox-ncr/",
   "background": {
     "scripts": [
       "omnibox-ncr.js"

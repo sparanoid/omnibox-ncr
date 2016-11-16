@@ -4,7 +4,7 @@ Force google.com (aka Google No Country Redirect) when searching in Google Chrom
 
 ## Install
 
-- [Add to Chrome](https://chrome.google.com/webstore/detail/hjdnnkppfadnemodjjnbacnagkgbhekm)
+- [Add to Chrome](https://chrome.google.com/webstore/detail/kohddgnpofoogkkjejnmcgleamcfbhhc)
 
 ## Love this?
 
