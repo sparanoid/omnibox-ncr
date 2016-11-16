@@ -208,7 +208,6 @@ chrome.webRequest.onBeforeRequest.addListener(
 
       // Check if request URL matches Google supported domains
       if (requestURL.match(re)) {
-        requestURL.replace(re, baseURL);
         return {
           redirectUrl: requestURL.replace(re, baseURL)
         };
