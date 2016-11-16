@@ -4,7 +4,7 @@
     "description": "The name of the application"
   },
   "appDescription": {
-    "message": "Force google.com (aka Google No Country Redirect) when searching in Google Chrome Omnibox",
+    "message": "強制 Google Chrome 在使用搜尋框（多功能框）搜尋時使用 google.com 域名（類似於 Google NCR）",
     "description": "The description of the application"
   }
 }
